@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "251485143905",
+    "project_id": "subharti-de370",
+    "storage_bucket": "subharti-de370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251485143905:android:47a69a8c3b8a7296e23b20",
+        "android_client_info": {
+          "package_name": "com.stouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251485143905-dureeokgi77ikdllavkrlimc4nt3cerb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stouch",
+            "certificate_hash": "5cde2e4ca3c043574f786b6404840249c4856f3b"
+          }
+        },
+        {
+          "client_id": "251485143905-duaetb42m335njk3lp956tfjbu2msa1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5l1X6qUQxHUHG0EhTvGIuoEsVYQIuh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251485143905-duaetb42m335njk3lp956tfjbu2msa1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "251485143905-24ikacadujllgrru9sb30kvk59l6o80a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stouch"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251485143905:android:55100385c051961be23b20",
+        "android_client_info": {
+          "package_name": "com.stouchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251485143905-duaetb42m335njk3lp956tfjbu2msa1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5l1X6qUQxHUHG0EhTvGIuoEsVYQIuh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251485143905-duaetb42m335njk3lp956tfjbu2msa1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "251485143905-24ikacadujllgrru9sb30kvk59l6o80a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stouch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

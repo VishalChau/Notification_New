@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">251485143905-duaetb42m335njk3lp956tfjbu2msa1n.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">251485143905</string>
+    <string name="google_api_key" translatable="false">AIzaSyAM5l1X6qUQxHUHG0EhTvGIuoEsVYQIuh4</string>
+    <string name="google_app_id" translatable="false">1:251485143905:android:47a69a8c3b8a7296e23b20</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAM5l1X6qUQxHUHG0EhTvGIuoEsVYQIuh4</string>
+    <string name="google_storage_bucket" translatable="false">subharti-de370.appspot.com</string>
+    <string name="project_id" translatable="false">subharti-de370</string>
+</resources>
