@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
+            "outputFile": "/Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
             "map": [
                 {
                     "source": "/Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/162c5ab96b4a9f20d1069147e4745a5c/jetified-play-services-basement-17.2.1/res/values-az/values.xml",

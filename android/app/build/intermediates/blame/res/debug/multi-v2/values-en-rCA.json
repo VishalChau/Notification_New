@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "/Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
                     "source": "/Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/c20e694f6ec0dc518849cd1cbc6b82a1/core-1.2.0/res/values-en-rCA/values-en-rCA.xml",

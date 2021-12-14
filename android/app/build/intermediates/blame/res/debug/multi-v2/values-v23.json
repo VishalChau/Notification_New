@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/338aa47414969a6d8b9f79104002f2ab/appcompat-1.0.2/res/values-v23/values-v23.xml",

@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:1:1-74:12
-INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:1:1-74:12
-INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:1:1-74:12
-INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:1:1-74:12
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:1:1-74:12
+INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:1:1-74:12
+INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:1:1-74:12
+INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:1:1-74:12
 MERGED from [org.webkit:android-jsc:r245459] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/ee4b3ede75a0ac39849a4524f1be892d/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
-MERGED from [com.facebook.react:react-native:0.61.3] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/d98d6612d385d0acf018e58a9018c177/jetified-react-native-0.61.3/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/cefc92ea18484c3c24716d51412688c8/jetified-react-native-0.61.3/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/338aa47414969a6d8b9f79104002f2ab/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/a4e11b9c0776bf57cee7d99a076708bf/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:17:1-37:12
 MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/9bc11aeb409323d3fe131df137b7ec75/firebase-core-16.0.9/AndroidManifest.xml:2:1-9:12
@@ -63,27 +63,27 @@ MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vishalchauhan/
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/011960a24650e46dd33e7cbf4bad8dcb/soloader-0.6.0/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/309d54fdd2fd82b2e0f3d1f2b64cb2e0/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/dd0226212266aa8472c827419ac59e65/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:1:1-74:12
-INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:1:1-74:12
-INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:1:1-74:12
+INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:1:1-74:12
+INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:1:1-74:12
+INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:1:1-74:12
 	package
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:2:5-25
-		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:1:1-74:12
-		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:1:1-74:12
+		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:1:1-74:12
-		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:1:1-74:12
+		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
-MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/9ee189209f1b8fc55e0f377708a0379b/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/9ee189209f1b8fc55e0f377708a0379b/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/d5629528724eedb60da9dfe6e5672cdd/jetified-firebase-iid-18.0.0/AndroidManifest.xml:23:5-67
@@ -95,19 +95,19 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/88e671f6e3b3cbc101fefc745605d223/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/88e671f6e3b3cbc101fefc745605d223/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:5:5-81
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:5:5-81
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:5:22-78
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:5:22-78
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:6:5-66
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:6:22-63
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:6:22-63
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:9:5-68
-MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
-MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:9:5-68
+MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/9ee189209f1b8fc55e0f377708a0379b/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/9ee189209f1b8fc55e0f377708a0379b/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/d5629528724eedb60da9dfe6e5672cdd/jetified-firebase-iid-18.0.0/AndroidManifest.xml:24:5-68
@@ -119,37 +119,37 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/88e671f6e3b3cbc101fefc745605d223/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/88e671f6e3b3cbc101fefc745605d223/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:9:22-65
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:9:22-65
 uses-permission#android.permission.USE_FULL_SCREEN_INTENT
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:10:5-81
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:10:22-78
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:10:22-78
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:11:5-82
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:11:5-82
 MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/d5629528724eedb60da9dfe6e5672cdd/jetified-firebase-iid-18.0.0/AndroidManifest.xml:26:5-82
 MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/d5629528724eedb60da9dfe6e5672cdd/jetified-firebase-iid-18.0.0/AndroidManifest.xml:26:5-82
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:11:22-79
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:11:22-79
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:12:5-76
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:12:5-76
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:12:22-74
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:12:22-74
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:13:5-77
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:13:5-77
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:13:22-75
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:13:22-75
 permission#android.permission.INTERACT_ACROSS_USERS_FULL
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:14:5-16:47
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:14:5-16:47
 	android:protectionLevel
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:16:9-44
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:16:9-44
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:15:9-69
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:15:9-69
 application
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:19:5-72:19
-MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
-MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
-MERGED from [com.facebook.react:react-native:0.61.3] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/d98d6612d385d0acf018e58a9018c177/jetified-react-native-0.61.3/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.61.3] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/d98d6612d385d0acf018e58a9018c177/jetified-react-native-0.61.3/AndroidManifest.xml:11:5-20
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:19:5-72:19
+MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/cefc92ea18484c3c24716d51412688c8/jetified-react-native-0.61.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/cefc92ea18484c3c24716d51412688c8/jetified-react-native-0.61.3/AndroidManifest.xml:11:5-20
 MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/a4e11b9c0776bf57cee7d99a076708bf/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:22:5-35:19
 MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/a4e11b9c0776bf57cee7d99a076708bf/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:22:5-35:19
 MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/9bc11aeb409323d3fe131df137b7ec75/firebase-core-16.0.9/AndroidManifest.xml:7:5-20
@@ -195,121 +195,121 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/vishalchauhan/.gradle/
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/c20e694f6ec0dc518849cd1cbc6b82a1/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:21:7-39
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:21:7-39
 	android:icon
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:22:7-41
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:22:7-41
 	android:allowBackup
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:23:7-34
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:23:7-34
 	android:theme
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:25:7-38
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:25:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:24:7-42
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:24:7-42
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:20:7-38
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:20:7-38
 activity#com.stouch.MainActivity
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:26:7-42:18
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:26:7-42:18
 	android:label
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:28:9-41
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:28:9-41
 	android:launchMode
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:31:9-39
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:31:9-39
 	android:windowSoftInputMode
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:30:9-51
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:30:9-51
 	android:configChanges
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:29:9-79
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:29:9-79
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:27:9-37
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:27:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:32:9-35:25
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:32:9-35:25
 action#android.intent.action.MAIN
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:33:13-65
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:33:13-65
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:33:21-62
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:33:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:34:13-73
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:34:13-73
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:34:23-70
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:34:23-70
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:viauapp
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:36:11-41:27
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:36:11-41:27
 	android:label
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:36:26-58
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:36:26-58
 action#android.intent.action.VIEW
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:37:15-67
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:37:15-67
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:37:23-64
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:37:23-64
 category#android.intent.category.DEFAULT
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:38:15-74
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:38:15-74
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:38:25-71
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:38:25-71
 category#android.intent.category.BROWSABLE
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:39:15-76
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:39:15-76
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:39:25-73
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:39:25-73
 data
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:40:15-48
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:40:15-48
 	android:scheme
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:40:21-45
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:40:21-45
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:43:7-84
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:43:7-84
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:43:17-81
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:43:17-81
 activity#com.stouch.LockScreenActivity
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:44:9-56
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:44:9-56
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:44:19-53
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:44:19-53
 service#com.stouch.ViAuFirebaseMessagingService
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:45:9-49:19
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:45:9-49:19
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:45:18-62
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:45:18-62
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:46:13-48:29
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:46:13-48:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:47:17-77
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:47:17-77
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:47:25-75
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:47:25-75
 service#io.invertase.firebase.messaging.RNFirebaseMessagingService
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:51:9-55:19
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:51:9-55:19
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:51:18-91
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:51:18-91
 service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:57:9-104
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:57:9-104
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:57:18-101
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:57:18-101
 receiver#io.invertase.firebase.notifications.RNFirebaseNotificationReceiver
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:59:9-103
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:59:9-103
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:59:19-100
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:59:19-100
 receiver#io.invertase.firebase.notifications.RNFirebaseNotificationsRebootReceiver
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:60:9-71:20
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:60:9-71:20
 	android:enabled
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:62:13-35
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:62:13-35
 	android:exported
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:63:13-36
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:63:13-36
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:61:13-101
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:61:13-101
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:64:13-70:29
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:64:13-70:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:65:17-79
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:65:17-79
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:65:25-76
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:65:25-76
 action#android.intent.action.QUICKBOOT_POWERON
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:66:17-82
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:66:17-82
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:66:25-79
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:66:25-79
 action#com.htc.intent.action.QUICKBOOT_POWERON
-ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:67:17-82
+ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:67:17-82
 	android:name
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml:67:25-79
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml:67:25-79
 uses-sdk
-INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
 MERGED from [org.webkit:android-jsc:r245459] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/ee4b3ede75a0ac39849a4524f1be892d/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/ee4b3ede75a0ac39849a4524f1be892d/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.3] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/d98d6612d385d0acf018e58a9018c177/jetified-react-native-0.61.3/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.3] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/d98d6612d385d0acf018e58a9018c177/jetified-react-native-0.61.3/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/cefc92ea18484c3c24716d51412688c8/jetified-react-native-0.61.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/cefc92ea18484c3c24716d51412688c8/jetified-react-native-0.61.3/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/338aa47414969a6d8b9f79104002f2ab/appcompat-1.0.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/338aa47414969a6d8b9f79104002f2ab/appcompat-1.0.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/a4e11b9c0776bf57cee7d99a076708bf/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:20:5-44
@@ -422,18 +422,18 @@ MERGED from [androidx.multidex:multidex:2.0.0] /Users/vishalchauhan/.gradle/cach
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/309d54fdd2fd82b2e0f3d1f2b64cb2e0/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/dd0226212266aa8472c827419ac59e65/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/dd0226212266aa8472c827419ac59e65/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
-INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/9ee189209f1b8fc55e0f377708a0379b/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/9ee189209f1b8fc55e0f377708a0379b/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/d5629528724eedb60da9dfe6e5672cdd/jetified-firebase-iid-18.0.0/AndroidManifest.xml:22:5-79
@@ -445,9 +445,9 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/88e671f6e3b3cbc101fefc745605d223/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/88e671f6e3b3cbc101fefc745605d223/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+		ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/9ee189209f1b8fc55e0f377708a0379b/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/9ee189209f1b8fc55e0f377708a0379b/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/d5629528724eedb60da9dfe6e5672cdd/jetified-firebase-iid-18.0.0/AndroidManifest.xml:29:9-35:19
@@ -455,13 +455,13 @@ MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/vishalchauhan/.grad
 	android:exported
 		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/9ee189209f1b8fc55e0f377708a0379b/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+		ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
 meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
-ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
 	android:value
-		ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+		ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
 	android:name
-		ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/RNFirebaseCallNotifications/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+		ADDED from [:react-native-firebase] /Users/vishalchauhan/Desktop/Vishal-Mac/POC/Notification_New/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/vishalchauhan/.gradle/caches/transforms-2/files-2.1/a4e11b9c0776bf57cee7d99a076708bf/jetified-firebase-messaging-18.0.0/AndroidManifest.xml:28:9-34:19
 	android:exported
