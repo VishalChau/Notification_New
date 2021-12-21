@@ -79,8 +79,9 @@ public class ViAuFirebaseMessagingService extends FirebaseMessagingService {
 		PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, intent, PendingIntent.FLAG_ONE_SHOT);
 
 		// notification action buttons start
-		PendingIntent acptIntent = MainActivity.getActionIntent(oneTimeID,uri,this);
 		PendingIntent rjctIntent = MainActivity.getActionIntent(oneTimeID,uri, this);
+		PendingIntent acptIntent = MainActivity.getActionIntent(oneTimeID,uri,this);
+
 
 		NotificationCompat.Action rejectCall=new NotificationCompat.Action.Builder(R.drawable.rjt_btn,getActionText("Decline",android.R.color.holo_red_light),rjctIntent).build();
 		NotificationCompat.Action acceptCall=new NotificationCompat.Action.Builder(R.drawable.acpt_btn,getActionText("Answer",android.R.color.holo_green_light),acptIntent).build();
@@ -103,8 +104,8 @@ public class ViAuFirebaseMessagingService extends FirebaseMessagingService {
 				.setCategory(NotificationCompat.CATEGORY_CALL)
 				.setAutoCancel(true)
 				.setSound(notification_sound)
-				.addAction(acceptCall)
 				.addAction(rejectCall)
+				.addAction(acceptCall)
 				.setContentIntent(pendingIntent)
 				.setDefaults(Notification.DEFAULT_VIBRATE)
 				.setFullScreenIntent(fullScreenIntent, true)

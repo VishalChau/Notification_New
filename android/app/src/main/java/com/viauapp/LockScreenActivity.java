@@ -24,6 +24,7 @@ import android.view.View.OnClickListener;
 import android.view.WindowManager;
 import android.widget.ImageButton;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.RequiresApi;
 import androidx.localbroadcastmanager.content.LocalBroadcastManager;
@@ -82,14 +83,14 @@ public class LockScreenActivity extends ReactActivity implements LockScreenActiv
                 ringtone.setLooping(true);
                 ringtone.play();
             }
-        final String host_name = "Alex";
+        final String host_name = "Sanjay";
         final Boolean isAppRuning=intent.getBooleanExtra("APP_STATE",false);
 
         TextView tvName = (TextView)findViewById(R.id.callerName);
         tvName.setText(host_name);
 
         TextView iconName = (TextView)findViewById(R.id.icon_text);
-        iconName.setText("A");
+        iconName.setText("S");
 
         ImageButton acceptCallBtn = (ImageButton) findViewById(R.id.accept_call_btn);
         acceptCallBtn.setOnClickListener(new OnClickListener() {
@@ -98,7 +99,7 @@ public class LockScreenActivity extends ReactActivity implements LockScreenActiv
                 WritableMap params = Arguments.createMap();
                 params.putBoolean("done", true);
                 removeNotification(fallBack,notifID);
-                
+                Toast.makeText(LockScreenActivity.this,"Accept",Toast.LENGTH_LONG).show();
                     String deeplinkUri="viauapp://";
                     Uri uri = Uri.parse(deeplinkUri);
                     Log.e("deeplinkUri", uri.toString());
@@ -114,6 +115,7 @@ public class LockScreenActivity extends ReactActivity implements LockScreenActiv
         rejectCallBtn.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
+                Toast.makeText(LockScreenActivity.this,"Reject",Toast.LENGTH_LONG).show();
                 WritableMap params = Arguments.createMap();
                 params.putBoolean("done", true);
                 removeNotification(fallBack,notifID);

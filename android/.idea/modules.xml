@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/viauapp.iml" filepath="$PROJECT_DIR$/.idea/modules/viauapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/viauapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/viauapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-276684063/viauapp.react-native-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/-276684063/viauapp.react-native-firebase.iml" />
+    </modules>
+  </component>
+</project>

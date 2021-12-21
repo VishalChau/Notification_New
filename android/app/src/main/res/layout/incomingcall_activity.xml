@@ -44,20 +44,22 @@ android:background="@drawable/call_bg">
         android:layout_height="match_parent"
         android:layout_gravity="center"
         android:layout_below="@+id/callInfoLayout">
-    <LinearLayout
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:layout_marginLeft="155dp"
-        android:layout_marginRight="155dp"
-        >
-        <Button
-            android:id="@+id/icon_text"
-            android:layout_width="100dp"
-            android:layout_height="100dp"
-            android:background="@drawable/bg_circle"
-            android:textSize="40sp"
-            android:textColor="#fff" />
-    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="55dp"
+            android:layout_marginRight="55dp"
+            android:gravity="center_horizontal">
+
+            <Button
+                android:id="@+id/icon_text"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="@drawable/bg_circle"
+                android:textColor="#fff"
+                android:textSize="40sp" />
+        </LinearLayout>
     </FrameLayout>
 
 <FrameLayout

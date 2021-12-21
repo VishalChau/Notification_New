@@ -12,19 +12,19 @@
     "react-native-firebase": "^5.5.4"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.1",
-    "babel-jest": "23.6.0",
     "@babel/core": "7.6.4",
     "@babel/runtime": "7.6.3",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "23.6.0",
     "eslint": "^5.8.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-react": "^7.11.1",
     "jest": "23.6.0",
+    "jetifier": "1.6.5",
     "metro-react-native-babel-preset": "0.54.1",
-    "react-test-renderer": "16.9.0",
-    "jetifier": "1.6.5"
+    "react-test-renderer": "16.9.0"
   },
   "resolutions": {
     "graceful-fs": "4.2.4"
